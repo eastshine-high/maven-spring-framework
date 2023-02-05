@@ -1,0 +1,6 @@
+.idea
+.gradle
+lib
+out
+apache-tomcat-9.0.71
+target
